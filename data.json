@@ -1,0 +1,18 @@
+[
+    {
+        "Number": "12",
+        "Name": "Spring rolls",
+        "Price": "4.50€"
+    },
+    {
+        "Number": "21",
+        "Name": "Fried rice with pork",
+        "Price": "6.00€"
+    },
+    {
+        "Number": "37",
+        "Name": "Chicken with almond sauce",
+        "Price": "6.50€"
+    }
+]
+
